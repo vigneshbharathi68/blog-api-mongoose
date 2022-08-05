@@ -1,0 +1,29 @@
+{
+  "name": "blog-api-mongoose",
+  "version": "0.0.1",
+  "description": "API driven development using node js, express js and mongodb db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshbharathi68/blog-api-mongoose.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Vignesh Bharathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vigneshbharathi68/blog-api-mongoose/issues"
+  },
+  "homepage": "https://github.com/vigneshbharathi68/blog-api-mongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1"
+  }
+}
